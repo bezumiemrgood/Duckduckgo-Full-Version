@@ -244,3 +244,6 @@ This repository serves as the official landing page for DuckDuckGo. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DuckDuckGo today!**
+
+---
+**Last updated:** 2026-09-07 18:31:57 UTC
