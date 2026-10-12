@@ -246,4 +246,4 @@ This repository serves as the official landing page for DuckDuckGo. The software
 **Get the most recent version of DuckDuckGo today!**
 
 ---
-**Last updated:** 2026-10-11 23:22:06 UTC
+**Last updated:** 2026-10-12 03:47:40 UTC
